@@ -22,8 +22,8 @@ def main():
 def logo():
   print """%s
 ____________________________________                              
-Design by Dimas
-Email microosfteinc@gmailcom
+Design by Dima Os Group
+SOLDUDO
 Team %sSingleCreator
 Tools spam otp dengan 29 spammers%s"""
 #-------------------------------Input Function------------------------------------------
